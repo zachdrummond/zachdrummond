@@ -3,15 +3,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zachdrummond/zachdrummond" alt="zachdrummond">
 <h2 align="center"> Hey, I'm Zach Drummond, a Software Engineer from the USA.</h2>
 <p align="center">
-  Currently, I work at <a href="https://www.nbcsportsnext.com" target="_blank"><strong>NBC Sports Next</strong></a>.
+  Currently, I work as a full-stack software engineer for <a href="https://www.nbcsportsnext.com" target="_blank"><strong>NBC Sports Next</strong></a>.
+  I contribute to the creation, migration, and maintenance of high performing business to consumer applications for major brands including <a href="https://www.sportsengine.com" target="_blank"><strong>SportsEngine</strong></a>, 
+  <a href="https://www.golfnow.com" target="_blank"><strong>Golf Now</strong></a>, and <a href="https://www.fandango.com" target="_blank"><strong>Fandagno</strong></a> that serve millions of users. 
   <br>
+  <br>
   How to reach me 👇
 </p>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/zachdrummond/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
   <a href="https://github.com/zachdrummond/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
- <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
+  <a href="https://www.zachdrummond.com/"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logoColor=white" height=23></a>
 </p>
 
 <!--Languages and Tools Section-->       
